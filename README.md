@@ -14,5 +14,5 @@ Working as a Student Quant at Danske Bank
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 
- Last Updated on 26/09/2022 18:13:21 UTC
+ Last Updated on 26/09/2022 18:56:59 UTC
 <!--END_SECTION:waka-->
