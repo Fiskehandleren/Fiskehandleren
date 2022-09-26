@@ -9,4 +9,10 @@ Working as a Student Quant at Danske Bank
 * Bsc in Computer Science from [@diku-dk](https://github.com/diku-dk)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+
+ Last Updated on 26/09/2022 15:41:40 UTC
 <!--END_SECTION:waka-->
