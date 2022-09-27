@@ -9,16 +9,16 @@ Working as a Student Quant at Danske Bank
 * Bsc in Computer Science from [@diku-dk](https://github.com/diku-dk)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    17 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-🌆 Daytime    47 commits     █████████████░░░░░░░░░░░░   55.29% 
-🌃 Evening    21 commits     ██████░░░░░░░░░░░░░░░░░░░   24.71% 
+🌞 Morning    18 commits     █████░░░░░░░░░░░░░░░░░░░░   20.69% 
+🌆 Daytime    47 commits     █████████████░░░░░░░░░░░░   54.02% 
+🌃 Evening    22 commits     ██████░░░░░░░░░░░░░░░░░░░   25.29% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -43,5 +43,5 @@ TradingFloorSimulator    46 mins             ███████████�
 ```
 
 
- Last Updated on 27/09/2022 08:12:23 UTC
+ Last Updated on 27/09/2022 18:46:59 UTC
 <!--END_SECTION:waka-->
