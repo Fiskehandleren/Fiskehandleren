@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -48,5 +48,5 @@ Fiskehandleren           12 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 28/09/2022 18:57:53 UTC
+ Last Updated on 29/09/2022 18:56:10 UTC
 <!--END_SECTION:waka-->
