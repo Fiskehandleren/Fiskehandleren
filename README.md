@@ -6,7 +6,7 @@
 
 * 🏦 Working as a Student Quant at Danske Bank
 * 🧮 Studying towards a MSC in Mathematical Modelling and Computation from [Technical University of Copenhagen](https://www.dtu.dk)
-* 🇸🇬 Exchange semester at National [University of Singapore (NUS)](https://www.nus.edu.sg)
+* 🇸🇬 Exchange semester at [National University of Singapore (NUS)](https://www.nus.edu.sg)
 * 💻 Bsc in Computer Science from [University of Copenhagen](https://www.ku.dk/english/)
 
 
