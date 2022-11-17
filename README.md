@@ -30,17 +30,16 @@
 
 ```text
 💬 Programming Languages: 
-Python                   18 mins             █████████████████████████   99.54% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LeetCode                 18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 16/11/2022 18:44:34 UTC
+ Last Updated on 17/11/2022 18:44:20 UTC
 <!--END_SECTION:waka-->
