@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,5 +44,5 @@ ProjectAssignment        3 hrs 6 mins        ███████████�
 ```
 
 
- Last Updated on 20/11/2022 18:42:48 UTC
+ Last Updated on 21/11/2022 18:44:48 UTC
 <!--END_SECTION:waka-->
