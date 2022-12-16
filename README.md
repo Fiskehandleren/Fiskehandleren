@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,17 +30,16 @@
 
 ```text
 💬 Programming Languages: 
-Python                   45 mins             █████████████████████████   100.0%
+Python                   2 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.0%
+VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-NetworkOptimization      41 mins             ██████████████████████░░░   91.08% 
-Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.92%
+NetworkOptimization      2 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 15/12/2022 18:37:49 UTC
+ Last Updated on 16/12/2022 18:39:07 UTC
 <!--END_SECTION:waka-->
