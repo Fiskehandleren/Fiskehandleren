@@ -11,7 +11,7 @@
 * 🌐 [Personal website](https://fiskehandleren.github.io/carl-website/) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,5 +37,5 @@ homebrew                 0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/04/2023 18:34:37 UTC
+ Last Updated on 29/04/2023 18:34:26 UTC
 <!--END_SECTION:waka-->
