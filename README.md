@@ -11,7 +11,7 @@
 * 🌐 [Personal website](https://fiskehandleren.github.io/carl-website/) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -35,5 +35,5 @@ MAD                      1 hr 30 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 16/06/2023 18:34:46 UTC
+ Last Updated on 17/06/2023 18:34:44 UTC
 <!--END_SECTION:waka-->
