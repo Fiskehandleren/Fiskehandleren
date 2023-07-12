@@ -11,7 +11,7 @@
 * 🌐 [Personal website](https://fiskehandleren.github.io/carl-website/) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -19,16 +19,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   39 mins             █████████████████████████   100.00 % 
+Python                   2 hrs 35 mins       █████████████████████████   99.81 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Speciale                 34 mins             ██████████████████████░░░   87.85 % 
-StatisticalRethinking    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Speciale                 2 hrs 31 mins       ████████████████████████░   96.96 % 
+StatisticalRethinking    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 
 
- Last Updated on 11/07/2023 18:38:20 UTC
+ Last Updated on 12/07/2023 18:38:25 UTC
 <!--END_SECTION:waka-->
