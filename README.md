@@ -9,3 +9,4 @@
 * 🇸🇬 Exchange semester at [National University of Singapore (NUS)](https://www.nus.edu.sg)
 * 💻 BSc in Computer Science from [University of Copenhagen](https://www.ku.dk/english/)
 * 🌐 [Personal website](https://fiskehandleren.github.io/carl-website/) 
+* ✏️ [Blog](https://carlscodebucket.fyi)
